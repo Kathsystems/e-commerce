@@ -42,11 +42,11 @@ ecommerce/
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ecommerce-database.git
+   git clone https://github.com/seu-usuario/ecommerce.git
    ```
 2. Importe o arquivo `ecommerce_schema.sql` no seu banco de dados MySQL:
    ```sql
-   SOURCE caminho/para/ecommerce_schema.sql;
+   SOURCE caminho/para/E-Commerce-1744077680.sql;
    ```
 
 ## ✍️ Observações
