@@ -9,10 +9,15 @@ Um sistema de e-commerce precisa controlar informações de **clientes**, **pedi
 ## 📁 Estrutura de Diretórios
 
 ```
-ecommerce-database/
+ecommerce/
 │
-├── ecommerce_schema.sql     # Script SQL com toda a estrutura do banco
-└── README.md                # Documentação do projeto
+├── docs/
+│   └── e-commerce_1.png           # Imagem do DER (pode ser a imagem que geramos)
+│
+├── sql/
+│   └── E-Commerce-1744077680.sql  # Script SQL com a criação das tabelas
+│
+└── README.md                     # Descrição do projeto
 ```
 
 ## 🧱 Entidades e Relacionamentos
